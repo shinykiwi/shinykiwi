@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinykiwi&layout=compact&theme=great-gatsby)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinykiwi)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinykiwi&theme=great-gatsby)
